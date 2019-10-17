@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Testing" duration-ms="96367" started-at="2019-10-17T04:58:33Z" finished-at="2019-10-17T05:00:09Z">
+    <groups>
+    </groups>
+    <test name="Modules" duration-ms="96367" started-at="2019-10-17T04:58:33Z" finished-at="2019-10-17T05:00:09Z">
+      <class name="com.test.com.test.Test2">
+        <test-method status="PASS" signature="HomePage()[pri:3, instance:com.test.com.test.Test2@1275dab]" name="HomePage" duration-ms="47562" started-at="2019-10-17T10:29:15Z" finished-at="2019-10-17T10:30:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method status="PASS" signature="MouseHover()[pri:4, instance:com.test.com.test.Test2@1275dab]" name="MouseHover" duration-ms="6668" started-at="2019-10-17T10:30:02Z" finished-at="2019-10-17T10:30:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MouseHover -->
+      </class> <!-- com.test.com.test.Test2 -->
+      <class name="com.test.com.test.Test1">
+        <test-method status="PASS" signature="Test11()[pri:0, instance:com.test.com.test.Test1@3884b2]" name="Test11" is-config="true" duration-ms="32746" started-at="2019-10-17T10:28:33Z" finished-at="2019-10-17T10:29:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test11 -->
+        <test-method status="PASS" signature="Register()[pri:1, instance:com.test.com.test.Test1@3884b2]" name="Register" duration-ms="8065" started-at="2019-10-17T10:29:05Z" finished-at="2019-10-17T10:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.test.com.test.Test1@3884b2]" name="close" is-config="true" duration-ms="1288" started-at="2019-10-17T10:29:14Z" finished-at="2019-10-17T10:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.test.com.test.Test1 -->
+    </test> <!-- Modules -->
+  </suite> <!-- Testing -->
+</testng-results>
